@@ -13,6 +13,7 @@ Passerina
 Pecorino
 
 
+
 Antipasti:
 Carpaccio di bresaola
 Vitello in salsa tonnata
@@ -23,10 +24,12 @@ Tortelli al ragù
 Pappardelle al cinghiale
 Carbonara
 
+Secondi piatti:
+Spezzatino di vitello con patate
+Filetto di pepe verde
+Poenta e osei
+
 Dolci:
 Tiramisù
 Creme brulèe
 Torta di mele
-
-
-
