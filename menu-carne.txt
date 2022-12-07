@@ -11,3 +11,8 @@ Vini:
 Montepulciano D'Abruzzo
 Passerina 
 Pecorino
+
+Dolci:
+Tiramisù
+Creme brulèe
+Torta di mele
